@@ -1,7 +1,8 @@
 # .NET DesignPatterns from http://www.dofactory.com
 
-**Creational Patterns**
-  Abstract Factory	Creates an instance of several families of classes
+##Creational Patterns##
+
+  **Abstract Factory** > Creates an instance of several families of classes
   Builder	Separates object construction from its representation
   Factory Method	Creates an instance of several derived classes
   Prototype	A fully initialized instance to be copied or cloned
