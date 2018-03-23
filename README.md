@@ -1,2 +1,2 @@
-# http://www.dofactory.com .NET DesignPatterns
+# .NET DesignPatterns from http://www.dofactory.com
 
